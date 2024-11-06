@@ -2,4 +2,4 @@
   Hi There. We Are BitBend
 </h1>
 
-We build fun and cool products
+We bend bit's to build wonderful products
