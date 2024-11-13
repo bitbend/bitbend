@@ -3,8 +3,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/8f5ca4fb-d6c5-4739-9964-19e2cb7b96f1" alt="BitBend Logo" style="width: 500px; height: auto;">
+  <img src="https://github.com/user-attachments/assets/d99d9be4-12b4-4c40-8256-48dfe4f8aa3b" alt="BitBend Logo" style="width: 500px; height: auto;">
 </div>
+
 
 <h2 align="center">
   We bend bit's to build wonderful products
