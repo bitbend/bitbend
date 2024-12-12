@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi There. We Are DynaBend
+  Hi There. We Are BitBend
 </h1>
 
 <div align="center">
@@ -8,5 +8,5 @@
 
 
 <h2 align="center">
-  We build wonderful products
+  We bend bits to build wonderful products
 </h2>
