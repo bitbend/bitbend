@@ -8,5 +8,5 @@
 
 
 <h2 align="center">
-  We bend bits to build wonderful products
+  We bend bit's to build wonderful products
 </h2>
