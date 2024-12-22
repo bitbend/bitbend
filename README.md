@@ -8,5 +8,5 @@
 
 
 <h2 align="center">
-  Software is too hard. Computers are magic. So why do we put up with so much complexity? We believe just a few new ideas can make all the difference.
+ We bend bit's to build wonderful products.
 </h2>
