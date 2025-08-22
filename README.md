@@ -8,7 +8,7 @@
 
 
 <h2 align="center">
- We bend bit's to build wonderful products.
+ We bend bit's to build magical products.
 </h2>
 
 # 🃏 Dev Card
