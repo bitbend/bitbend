@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="bitbend.png" alt="BitBend" style="width: 400px; height: auto;">
+  <img src="bitben.png" alt="BitBend" style="width: 400px; height: auto;">
 </div>
 
 
