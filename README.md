@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ba460b24-446e-4e1e-9a30-b896ef0b6336" alt="BitBend" style="width: 400px; height: auto;">
+  <img src="bitbend.png" alt="BitBend" style="width: 400px; height: auto;">
 </div>
 
 <h2 align="center">
